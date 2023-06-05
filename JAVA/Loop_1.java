@@ -63,6 +63,7 @@ public class Solution {
 
 
 /*
+Test case 1
 Input (stdin)
 2
 
