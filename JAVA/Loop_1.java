@@ -62,9 +62,10 @@ public class Solution {
 }
 
 
-
+/*
 Input (stdin)
 2
+
 Your Output (stdout)
 2 x 1 = 2
 2 x 2 = 4
@@ -76,6 +77,7 @@ Your Output (stdout)
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
+
 Expected Output
 2 x 1 = 2
 2 x 2 = 4
@@ -87,3 +89,7 @@ Expected Output
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
+
+Result:
+Success
+*/
