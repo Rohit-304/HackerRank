@@ -33,7 +33,6 @@ Sample Output
 2 x 10 = 20
 */
 
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
