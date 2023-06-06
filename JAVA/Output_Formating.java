@@ -20,6 +20,7 @@ Explanation: Each String is left-justified with trailing whitespace through the 
 The leading digit of theinteger is the  character, and each integer that was less than  digits now has leading zeroes.
 */
 
+
 import java.util.Scanner;
 public class Solution {
 
