@@ -53,3 +53,21 @@ public class Solution {
     }
 }
 
+/*
+Test case 1:
+Input (stdin)
+42
+100
+125
+Your Output (stdout)
+42
+100
+125
+Expected Output
+42
+100
+125
+
+Result:
+Success
+*/
