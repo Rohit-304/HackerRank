@@ -45,3 +45,40 @@ public class Solution {
         System.out.println("Int: " + i);
     }
 }
+
+
+/*
+Test case 1:
+Input (stdin)
+42
+3.1415
+Welcome to HackerRank's Java tutorials!
+Your Output (stdout)
+String: Welcome to HackerRank's Java tutorials!
+Double: 3.1415
+Int: 42
+Expected Output
+String: Welcome to HackerRank's Java tutorials!
+Double: 3.1415
+Int: 42
+
+Result:
+Success
+
+Test case 2:
+Input (stdin)
+100
+42
+42 is the answer to life, the universe, and everything!
+Your Output (stdout)
+String: 42 is the answer to life, the universe, and everything!
+Double: 42.0
+Int: 100
+Expected Output
+String: 42 is the answer to life, the universe, and everything!
+Double: 42.0
+Int: 100
+
+Result:
+Success
+*/
