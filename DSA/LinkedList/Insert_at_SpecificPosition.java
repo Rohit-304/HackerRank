@@ -8,7 +8,6 @@ A position of 0 indicates head, a position of 1 indicates one node away from the
 Example
  refers to the first node in the list 
 
-
 Insert a node at position  with . The new list is 
 
 Function Description Complete the function insertNodeAtPosition in the editor below. It must return a reference to the head node of your finished list.
