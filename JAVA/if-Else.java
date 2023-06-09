@@ -71,3 +71,25 @@ public class Solution {
     }
 }
 
+/*
+Test case 1:
+Input (stdin)
+3
+Your Output (stdout)
+Weird
+Expected Output
+Weird
+
+Result:
+Success
+Test case 2:
+Input (stdin)
+24
+Your Output (stdout)
+Not Weird 
+Expected Output
+Not Weird
+
+Result:
+Success
+*/
