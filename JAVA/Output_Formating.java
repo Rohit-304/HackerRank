@@ -10,6 +10,7 @@ Sample Input:
 java 100
 cpp 65
 python 50
+
 Sample Output
 ================================
 java           100
@@ -19,7 +20,6 @@ python         050
 Explanation: Each String is left-justified with trailing whitespace through the first 15 characters. 
 The leading digit of theinteger is the  character, and each integer that was less than  digits now has leading zeroes.
 */
-
 
 import java.util.Scanner;
 public class Solution {
