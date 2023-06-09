@@ -21,16 +21,15 @@ For the second line, write Yes if  is lexicographically greater than  otherwise 
 For the third line, capitalize the first letter in both  and  and print them on a single line, separated by a space.
 
 Sample Input 0
-
 hello
 java
-Sample Output 0
 
+Sample Output 0
 9
 No
 Hello Java
-Explanation 0
 
+Explanation 0
 String  is "hello" and  is "java".
 
  has a length of , and  has a length of ; the sum of their lengths is .
