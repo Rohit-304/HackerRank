@@ -31,3 +31,15 @@ public class Solution {
     }
 }
 
+/*
+Test case 1:
+Your Output (stdout)
+Hello, World.
+Hello, Java.
+Expected Output
+Hello, World.
+Hello, Java.
+
+Result:
+Success
+*/
