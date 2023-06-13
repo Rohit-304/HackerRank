@@ -6,15 +6,16 @@ Given a string , print Yes if it is a palindrome, print No otherwise.
 Constraints
 
  will consist at most  lower case english letters.
+
 Sample Input
-
 madam
-Sample Output
 
+Sample Output
 Yes
 */
-//Using Sring Buffer class
+
 //Using String Builder class
+
 
 import java.io.*;
 import java.util.*;
