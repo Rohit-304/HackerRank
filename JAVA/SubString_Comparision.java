@@ -25,17 +25,17 @@ The second line contains an integer denoting .
 
 Constraints
 
- consists of English alphabetic letters only (i.e., [a-zA-Z]).
-Sample Input 0
+consists of English alphabetic letters only (i.e., [a-zA-Z]).
 
+Sample Input 0
 welcometojava
 3
-Sample Output 0
 
+Sample Output 0
 ava
 wel
-Explanation 0
 
+Explanation 0
 String  has the following lexicographically-ordered substrings of length :
 
 We then return the first (lexicographically smallest) substring and the last (lexicographically largest) substring as two newline-separated values (i.e., ava\nwel).
