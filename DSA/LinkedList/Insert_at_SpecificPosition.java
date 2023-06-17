@@ -180,6 +180,8 @@ public class Solution {
 
 /*
 Test case 1:
+Compilation Message
+Success
 Input (stdin)
 3
 16
@@ -192,10 +194,9 @@ Your Output (stdout)
 Expected Output
 16 13 1 7
 
-Result:
-Success
 
 Test case 2:
+Compilation Success
 Input (stdin)
 5
 11
@@ -210,10 +211,10 @@ Your Output (stdout)
 Expected Output
 11 9 19 20 10 4
 
-Result:
-Success
 
 Test case 3:
+Compilation Message 
+Success
 Input (stdin)
 6
 1
@@ -229,7 +230,6 @@ Your Output (stdout)
 Expected Output
 1 2 3 4 5 7 6
 
-Result:
-Success
 
+*/
 
