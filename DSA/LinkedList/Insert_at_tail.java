@@ -141,6 +141,8 @@ public class Solution {
 
 /*
 test case 1:
+Compiler Message
+Success
 Input (stdin)
 5
 141
@@ -161,10 +163,10 @@ Expected Output
 530
 474
 
-Result:
-Success
        
 test case 2: 
+Compiler Message
+Success
 Input (stdin)
 3
 236
@@ -179,6 +181,5 @@ Expected Output
 326
 937
 
-Result:
-Success
+*/
     
