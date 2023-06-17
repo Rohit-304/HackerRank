@@ -26,11 +26,9 @@ The first line of input contains an integer , the number of elements in the link
 Each of the next  lines contains an integer, the node data values in order.
 The last line contains an integer, , the position of the node to delete.
 
-Constraints
+Constraints, where  is the  element of the linked list.
 
-, where  is the  element of the linked list.
 Sample Input
-
 8
 20
 6
@@ -41,12 +39,13 @@ Sample Input
 15
 9
 3
+
 Sample Output
-
 20 6 2 7 4 15 9
-Explanation
 
+Explanation
 The original list is . After deleting the node at position , the list is 
+
 */
 
 
@@ -186,6 +185,8 @@ public class Solution {
 
 /*
 Test case 1:
+Compiler Message
+Success
 Input (stdin)
 8
 20
@@ -202,10 +203,9 @@ Your Output (stdout)
 Expected Output
 20 6 2 7 4 15 9
 
-result:
-Success
-
 Test case 2:
+Compiler Message
+Success
 Input (stdin)
 4
 11
@@ -217,9 +217,6 @@ Your Output (stdout)
 11 2 9
 Expected Output
 11 2 9
-
-result:
-Success
 
 */
    
