@@ -242,6 +242,36 @@ Expected Output
 5
 
 
+Test Case 2:
+Compiler Message
+Success
+Input (stdin)
+3
+3
+11
+1
+17
+3
+12
+11
+15
+4
+5
+7
+15
+14
+Expected Output
+17
+1
+11
+15
+11
+12
+14
+15
+7
+5
+
 */
 
 
