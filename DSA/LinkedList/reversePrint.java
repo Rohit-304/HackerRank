@@ -80,6 +80,7 @@ The second linked list has  elements: . Printing this in reverse order produces:
 9
 3
 7
+
 The third linked list has  elements: . Printing
 */
 
