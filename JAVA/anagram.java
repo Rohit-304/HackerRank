@@ -12,24 +12,23 @@ string b: the second string
 Returns
 
 boolean: If  and  are case-insensitive anagrams, return true. Otherwise, return false.
-Input Format
 
+Input Format
 The first line contains a string .
 The second line contains a string .
 
 Constraints
-
 Strings  and  consist of English alphabetic characters.
 The comparison should NOT be case sensitive.
-Sample Input 0
 
+Sample Input 0
 anagram
 margana
+
 Sample Output 0
-
 Anagrams
-Explanation 0
 
+Explanation 0
 Character	Frequency: anagram	Frequency: margana
 A or a	3	3
 G or g	1	1
