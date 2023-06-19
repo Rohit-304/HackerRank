@@ -4,7 +4,6 @@ This challenge is part of a tutorial track by MyCodeSchool
 You’re given the pointer to the head nodes of two linked lists. Compare the data in the nodes of the linked lists to check if they are equal. If all data attributes are equal and the lists are the same length, return . Otherwise, return .
 
 Example
-
 The two lists have equal data attributes for the first  nodes.  is longer, though, so the lists are not equal. Return .
 
 Function Description
