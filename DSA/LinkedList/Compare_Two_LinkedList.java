@@ -17,8 +17,8 @@ SinglyLinkedListNode llist2: a reference to the head of a list
 Returns
 
 int: return 1 if the lists are equal, or 0 otherwise
-Input Format
 
+Input Format
 The first line contains an integer , the number of test cases.
 
 Each of the test cases has the following format:
@@ -30,7 +30,6 @@ Each of the next  lines contains an integer, each a value for a data attribute.
 Constraints
 
 Output Format
-
 Compare the two linked lists and return 1 if the lists are equal. Otherwise, return 0. Do NOT print anything to stdout/console.
 
 The output is handled by the code in the editor and it is as follows:
