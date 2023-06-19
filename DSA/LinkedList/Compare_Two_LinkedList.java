@@ -5,8 +5,6 @@ You’re given the pointer to the head nodes of two linked lists. Compare the da
 
 Example
 
-
-
 The two lists have equal data attributes for the first  nodes.  is longer, though, so the lists are not equal. Return .
 
 Function Description
