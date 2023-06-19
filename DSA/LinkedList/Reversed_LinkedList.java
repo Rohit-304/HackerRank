@@ -4,7 +4,8 @@ This challenge is part of a tutorial track by MyCodeSchool and is accompanied by
 Given the pointer to the head node of a linked list, change the next pointers of the nodes so that their order is reversed. The head pointer given may be null meaning that the initial list is empty.
 
 Example
- references the list 
+
+references the list 
 
 Manipulate the  pointers of each node in place and return , now referencing the head of the list .
 
