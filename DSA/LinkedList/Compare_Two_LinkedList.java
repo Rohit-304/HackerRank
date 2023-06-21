@@ -16,6 +16,7 @@ SinglyLinkedListNode llist1: a reference to the head of a list
 SinglyLinkedListNode llist2: a reference to the head of a list
 Returns
 
+
 int: return 1 if the lists are equal, or 0 otherwise
 
 Input Format
