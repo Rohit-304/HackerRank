@@ -7,6 +7,7 @@ Example
 The two lists have equal data attributes for the first  nodes.  is longer, though, so the lists are not equal. Return .
 
 Function Description
+
 Complete the compare_lists function in the editor below.
 
 compare_lists has the following parameters:
