@@ -56,7 +56,6 @@ Hence, the merged linked list is:
 */
 
 
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
