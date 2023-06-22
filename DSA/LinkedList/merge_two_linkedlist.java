@@ -32,8 +32,8 @@ The next line contains an integer , the length of the second linked list.
 The next  lines contain an integer each, the elements of the second linked list.
 
 Constraints, where  is the  element of the list.
-Sample Input
 
+Sample Input
 1
 3
 1
@@ -42,11 +42,11 @@ Sample Input
 2
 3
 4
+
 Sample Output
-
 1 2 3 3 4 
-Explanation
 
+Explanation
 The first linked list is: 
 
 The second linked list is: 
