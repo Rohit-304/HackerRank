@@ -4,7 +4,6 @@ This challenge is part of a tutorial track by MyCodeSchool
 Given pointers to the heads of two sorted linked lists, merge them into a single, sorted linked list. Either head pointer may be null meaning that the corresponding list is empty.
 
 Example
-
  refers to 
  refers to 
 
@@ -21,8 +20,8 @@ SinglyLinkedListNode pointer headB: a reference to the head of a list
 Returns
 
 SinglyLinkedListNode pointer: a reference to the head of the merged list
-Input Format
 
+Input Format
 The first line contains an integer , the number of test cases.
 
 The format for each test case is as follows:
