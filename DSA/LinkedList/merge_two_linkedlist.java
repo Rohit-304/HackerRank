@@ -31,9 +31,7 @@ The next  lines contain an integer each, the elements of the linked list.
 The next line contains an integer , the length of the second linked list.
 The next  lines contain an integer each, the elements of the second linked list.
 
-Constraints
-
-, where  is the  element of the list.
+Constraints, where  is the  element of the list.
 Sample Input
 
 1
