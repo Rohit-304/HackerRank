@@ -40,12 +40,12 @@ Sample Input
 2
 1
 2
-Sample Output
 
+Sample Output
 1
 3
-Explanation
 
+Explanation
 In the first case, there is one element in linked list with a value of 1. The last (only) element contains 1.
 
 In the second case, the list is . The element with position of 2 from tail contains 3.
