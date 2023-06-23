@@ -19,8 +19,8 @@ int positionFromTail: the item to retrieve
 Returns
 
 int: the value at the desired position
-Input Format
 
+Input Format
 The first line contains an integer , the number of test cases.
 
 Each test case has the following format:
