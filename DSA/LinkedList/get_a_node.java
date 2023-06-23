@@ -28,11 +28,9 @@ The first line contains an integer , the number of elements in the linked list.
 The next  lines contains an integer, the data value for an element of the linked list.
 The last line contains an integer , the position from the tail to retrieve the value of.
 
-Constraints
+Constraints, where  is the  element of the linked list.
 
-, where  is the  element of the linked list.
 Sample Input
-
 2
 1
 1
