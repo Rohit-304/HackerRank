@@ -5,7 +5,7 @@ Given a pointer to the head of a singly-linked list, print each  value from the 
 
 Example
 
- refers to the linked list with  values 
+refers to the linked list with  values 
 
 Print the following:
 3
