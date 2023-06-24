@@ -30,7 +30,8 @@ The input of each test case is as follows:
 
 The first line contains an integer , the number of elements in the list.
 Each of the next n lines contains a data element for a list node.
-Constraints, where  is the  element in the list.
+Constraints
+, where  is the  element in the list.
 
 Sample Input
 3
