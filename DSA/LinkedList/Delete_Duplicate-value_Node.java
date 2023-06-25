@@ -184,3 +184,33 @@ public class Solution {
 }
 
 
+/*
+Test Case 1:
+Compiler Message
+Success
+Input (stdin)
+1
+5
+1
+2
+2
+3
+4
+Expected Output
+1 2 3 4 
+
+Test Case 2:
+Compiler Message
+Success
+Input (stdin)
+1
+6
+3
+3
+3
+4
+5
+5
+Expected Output
+3 4 5 
+ */
