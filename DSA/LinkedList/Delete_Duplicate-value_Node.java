@@ -31,7 +31,6 @@ Each of the next  lines contains an integer, the  value for each of the elements
 Constraints
 
 Sample Input
-
 STDIN   Function
 -----   --------
 1       t = 1
