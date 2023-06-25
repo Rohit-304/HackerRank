@@ -41,11 +41,11 @@ STDIN   Function
 2
 3
 4
+
 Sample Output
-
 1 2 3 4 
-Explanation
 
+Explanation
 The initial linked list is: .
 
 The final linked list is: 
