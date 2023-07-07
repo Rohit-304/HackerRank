@@ -222,3 +222,37 @@ public class Solution {
         scanner.close();
     }
 }
+
+
+/*
+Test Case 1:
+Compiler Message
+Success
+Input (stdin)
+1
+1
+3
+1
+2
+3
+1
+1
+Expected Output
+2
+
+Test Case 2:
+Compiler Message
+Success
+Input (stdin)
+1
+2
+3
+1
+2
+3
+1
+1
+Expected Output
+3
+
+*/
