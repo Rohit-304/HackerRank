@@ -54,23 +54,25 @@ Test Case 0
    2--->3--->NULL
   /
  1
-Test Case 1
 
+Test Case 1
 1--->2
       \
        3--->Null
       /
      1
-Sample Output
 
+Sample Output
 2
 3
-Explanation
 
+Explanation
 Test Case 0: As demonstrated in the diagram above, the merge node's data field contains the integer .
 Test Case 1: As demonstrated in the diagram above, the merge node's data field contains the integer .
 
+
 */
+
 
 import java.io.*;
 import java.math.*;
@@ -155,7 +157,6 @@ public class Solution {
             }
         }
         return llist1.data;
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
