@@ -5,7 +5,7 @@ You are given the pointer to the head node of a sorted linked list, where the da
 
 Example
 
- refers to the first node in the list .
+refers to the first node in the list .
 
 Remove 1 of the  data values and return  pointing to the revised list .
 
