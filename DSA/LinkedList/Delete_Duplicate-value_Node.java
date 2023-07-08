@@ -7,7 +7,7 @@ Example
 
 refers to the first node in the list.
 
-Remove 1 of the  data values and return  pointing to the revised list .
+Remove 1 of the  data values and return  pointing to the revised list.
 
 Function Description
 
