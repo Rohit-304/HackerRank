@@ -19,8 +19,8 @@ SinglyLinkedListNode pointer head: a reference to the head of the list
 Returns
 
 SinglyLinkedListNode pointer: a reference to the head of the revised list
-Input Format
 
+Input Format
 The first line contains an integer , the number of test cases.
 
 The format for each test case is as follows:
