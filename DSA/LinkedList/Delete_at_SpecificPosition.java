@@ -5,7 +5,6 @@ Delete the node at a given position in a linked list and return a reference to t
 
 Example
 
-
 After removing the node at position , .
 
 Function Description
