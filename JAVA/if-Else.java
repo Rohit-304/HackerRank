@@ -14,7 +14,7 @@ A single line containing a positive integer, .
 
 Constraints
 
-Output Format
+Output Format 
 Print Weird if the number is weird; otherwise, print Not Weird.
 
 Sample Input 0
